@@ -1,5 +1,2 @@
 - 👋 Hello, I’m @varun-potluri
 - 👀 I’m interested in gaming 🎮 , swimming 🏊‍♀️ , travelling 🧳 , music music 🎵 !!!
-- 🌱 I’m currently learning Machine Learning, AWS, Big Data
-- 📫 You can reach me at varunpknvs@gmail.com
-- 📚 I am currently doing my Masters in Computer Science at New Jersey Institute of Technology, Newark, NJ. I completed my Bachelors in Computer Science & Engineering at Vellore Institute of Technology, Vellore, TN.
